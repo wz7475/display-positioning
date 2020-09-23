@@ -1,0 +1,1 @@
+This is website from codecademy project - rebulit and enhanced by me
